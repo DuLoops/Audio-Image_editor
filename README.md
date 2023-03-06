@@ -35,6 +35,5 @@ The Image Morpher functionality allows users to morph two images by drawing line
 # Technologies Used
 The project is developed in C# using the WPF framework.
 
-Thank you for using our audio and image editor project.
 ![Audio Morpher](AudioMorpher.jpg)
 
